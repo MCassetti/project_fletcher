@@ -1,0 +1,13 @@
+.env
+reddit.json
+Untitled*
+.ipynb*/
+*.pt*
+cleaned*
+mymodel*
+model*
+*.png*
+*.jpg*
+*.jpeg*
+*.txt*
+*.svg*
