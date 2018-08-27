@@ -22,6 +22,8 @@ pytorch
 sklearn
 ```
 
+computing: AWS
+
 #### DATA PROCESSING
 Since the "language" of this community isn't completely english and contains made up words, I did not use english stop words. I instead cleaned up
 the text to remove excess spaces, links, and puntuation that wasn't [,.!?]
