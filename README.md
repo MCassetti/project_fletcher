@@ -68,7 +68,7 @@ whether your results are as expected.
 The word-by-word approach to the LSMT is ultimately slow, even when processing in batches. Running a gpu may have helped, however 
 perhaps a better approach would be to subsample and look at the loss function to see if it can converge faster. Then a sampling of sentances
 maybe be a better method than to process blocks and blocks of sentences with little return from the learning perspective. 
-Also, I got unlikely and had a bad image from my AWS instance, something that I thought was my fault and spent time trying to resolve
+Also, I got unlucky and had a bad image from my AWS instance, something that I thought was my fault and spent time trying to resolve
 gpu drivers and the like. In the future I will test to see if the image is bad ahead of time (load up python and import torch and test if
 the cuda core can be seen)
 
