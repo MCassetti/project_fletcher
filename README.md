@@ -40,7 +40,7 @@ that would actually make sense when talking about the topics "bitcoin transactio
 that needs to be addressed. However, I got some real gems such as "shiba inu memes rule". Note, I seeded the markov chain with real
 words that are specific to this community. 
 
-### TEXT GENERATION - LSTM APPROACH
+#### TEXT GENERATION - LSTM APPROACH
 I used pytorch and decided to use an LSMT with a batch size of 32. This was done by first one hot encoding my sentances.
 I ended up using at first 1layer, however this was giving me sentances that were, although some what coherent, they didn't quite make
 sense. I decided to go up to 3layers. This actually gave me some tweets that associated the topic with things about that topic
